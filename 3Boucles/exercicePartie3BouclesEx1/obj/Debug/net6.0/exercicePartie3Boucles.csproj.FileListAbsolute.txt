@@ -1,0 +1,15 @@
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\bin\Debug\net6.0\exercicePartie3Boucles.exe
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\bin\Debug\net6.0\exercicePartie3Boucles.deps.json
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\bin\Debug\net6.0\exercicePartie3Boucles.runtimeconfig.json
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\bin\Debug\net6.0\exercicePartie3Boucles.dll
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\bin\Debug\net6.0\ref\exercicePartie3Boucles.dll
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\bin\Debug\net6.0\exercicePartie3Boucles.pdb
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\obj\Debug\net6.0\exercicePartie3Boucles.csproj.AssemblyReference.cache
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\obj\Debug\net6.0\exercicePartie3Boucles.GeneratedMSBuildEditorConfig.editorconfig
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\obj\Debug\net6.0\exercicePartie3Boucles.AssemblyInfoInputs.cache
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\obj\Debug\net6.0\exercicePartie3Boucles.AssemblyInfo.cs
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\obj\Debug\net6.0\exercicePartie3Boucles.csproj.CoreCompileInputs.cache
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\obj\Debug\net6.0\exercicePartie3Boucles.dll
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\obj\Debug\net6.0\ref\exercicePartie3Boucles.dll
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\obj\Debug\net6.0\exercicePartie3Boucles.pdb
+D:\LA MANU\Exercices\exercicePartie3Boucles\exercicePartie3Boucles\obj\Debug\net6.0\exercicePartie3Boucles.genruntimeconfig.cache
