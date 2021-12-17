@@ -1,0 +1,15 @@
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\obj\Debug\net6.0\exercicePartie2ConditionsEx2.csproj.AssemblyReference.cache
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\obj\Debug\net6.0\exercicePartie2ConditionsEx2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\obj\Debug\net6.0\exercicePartie2ConditionsEx2.AssemblyInfoInputs.cache
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\obj\Debug\net6.0\exercicePartie2ConditionsEx2.AssemblyInfo.cs
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\obj\Debug\net6.0\exercicePartie2ConditionsEx2.csproj.CoreCompileInputs.cache
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\bin\Debug\net6.0\exercicePartie2ConditionsEx2.exe
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\bin\Debug\net6.0\exercicePartie2ConditionsEx2.deps.json
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\bin\Debug\net6.0\exercicePartie2ConditionsEx2.runtimeconfig.json
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\bin\Debug\net6.0\exercicePartie2ConditionsEx2.dll
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\bin\Debug\net6.0\ref\exercicePartie2ConditionsEx2.dll
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\bin\Debug\net6.0\exercicePartie2ConditionsEx2.pdb
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\obj\Debug\net6.0\exercicePartie2ConditionsEx2.dll
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\obj\Debug\net6.0\ref\exercicePartie2ConditionsEx2.dll
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\obj\Debug\net6.0\exercicePartie2ConditionsEx2.pdb
+D:\LA MANU\Exercices\exercicePartie2Conditions\exercicePartie2ConditionsEx2\obj\Debug\net6.0\exercicePartie2ConditionsEx2.genruntimeconfig.cache
