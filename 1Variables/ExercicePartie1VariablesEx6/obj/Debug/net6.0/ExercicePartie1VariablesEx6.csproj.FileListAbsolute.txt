@@ -1,0 +1,15 @@
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\obj\Debug\net6.0\ExercicePartie1VariablesEx6.csproj.AssemblyReference.cache
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\obj\Debug\net6.0\ExercicePartie1VariablesEx6.GeneratedMSBuildEditorConfig.editorconfig
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\obj\Debug\net6.0\ExercicePartie1VariablesEx6.AssemblyInfoInputs.cache
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\obj\Debug\net6.0\ExercicePartie1VariablesEx6.AssemblyInfo.cs
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\obj\Debug\net6.0\ExercicePartie1VariablesEx6.csproj.CoreCompileInputs.cache
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\bin\Debug\net6.0\ExercicePartie1VariablesEx6.exe
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\bin\Debug\net6.0\ExercicePartie1VariablesEx6.deps.json
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\bin\Debug\net6.0\ExercicePartie1VariablesEx6.runtimeconfig.json
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\bin\Debug\net6.0\ExercicePartie1VariablesEx6.dll
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\bin\Debug\net6.0\ref\ExercicePartie1VariablesEx6.dll
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\bin\Debug\net6.0\ExercicePartie1VariablesEx6.pdb
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\obj\Debug\net6.0\ExercicePartie1VariablesEx6.dll
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\obj\Debug\net6.0\ref\ExercicePartie1VariablesEx6.dll
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\obj\Debug\net6.0\ExercicePartie1VariablesEx6.pdb
+D:\LA MANU\Exercices\ExercicePartie1Variables\ExercicePartie1VariablesEx6\obj\Debug\net6.0\ExercicePartie1VariablesEx6.genruntimeconfig.cache

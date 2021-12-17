@@ -1,0 +1,15 @@
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\obj\Debug\net6.0\ExercicePartie1VariablesEx1.csproj.AssemblyReference.cache
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\obj\Debug\net6.0\ExercicePartie1VariablesEx1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\obj\Debug\net6.0\ExercicePartie1VariablesEx1.AssemblyInfoInputs.cache
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\obj\Debug\net6.0\ExercicePartie1VariablesEx1.AssemblyInfo.cs
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\obj\Debug\net6.0\ExercicePartie1VariablesEx1.csproj.CoreCompileInputs.cache
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\bin\Debug\net6.0\ExercicePartie1VariablesEx1.exe
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\bin\Debug\net6.0\ExercicePartie1VariablesEx1.deps.json
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\bin\Debug\net6.0\ExercicePartie1VariablesEx1.runtimeconfig.json
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\bin\Debug\net6.0\ExercicePartie1VariablesEx1.dll
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\bin\Debug\net6.0\ref\ExercicePartie1VariablesEx1.dll
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\bin\Debug\net6.0\ExercicePartie1VariablesEx1.pdb
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\obj\Debug\net6.0\ExercicePartie1VariablesEx1.dll
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\obj\Debug\net6.0\ref\ExercicePartie1VariablesEx1.dll
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\obj\Debug\net6.0\ExercicePartie1VariablesEx1.pdb
+D:\LA MANU\Exercice\ExercicePartie1Variables\ExercicePartie1VariablesEx1\obj\Debug\net6.0\ExercicePartie1VariablesEx1.genruntimeconfig.cache
